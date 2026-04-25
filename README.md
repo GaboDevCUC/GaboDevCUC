@@ -11,5 +11,6 @@ Soy estudiante de **Ingeniería de sistemas** de la Universidad de la Costa
 ## Link
 [Mi Linkedin](www.linkedin.com/in/gabriel-arenas-quijano-a2302733b)
 
-## Foto
-![Una Foto del usuario](https://github.com/GaboDevCUC/GaboDevCUC/blob/main/Me.png?raw=true)
+<p align="center"><img alt="Developer photo" src="https://github.com/GaboDevCUC/GaboDevCUC/blob/main/Me.png?raw=true" width="400px"></p>
+
+
